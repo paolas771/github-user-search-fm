@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/paolas771/github-user-search-fm]
+- Live Site URL: [https://github-user-search-fm.netlify.app/]
 
 ## My process
 
