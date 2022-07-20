@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/paolas771/github-user-search-fm]
-- Live Site URL: [https://github-user-search-fm.netlify.app/]
+- Solution URL: (https://github.com/paolas771/github-user-search-fm)
+- Live Site URL: (https://github-user-search-fm.netlify.app/)
 
 ## My process
 
@@ -80,7 +80,7 @@ React.useEffect(() => {
 
 ### Useful resources
 
-- [StackOverflow](https://stackoverflow.com/questions/6291225/convert-date-from-thu-jun-09-2011-000000-gmt0530-india-standard-time-to - This helped with converting a string to a date
+- [StackOverflow](https://stackoverflow.com/questions/6291225/convert-date-from-thu-jun-09-2011-000000-gmt0530-india-standard-time-to) - This helped with converting a string to a date
 - [levelupcoding](https://levelup.gitconnected.com/how-to-deploy-a-react-app-with-netlify-set-up-continuous-deployment-via-github-53859dcdaf40) - This helped deploy my website on netlify
 
 
